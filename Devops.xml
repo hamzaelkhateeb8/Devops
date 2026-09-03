@@ -6,11 +6,11 @@
     <items>
         <item id="1">
             <name>Item One</name>
-            <value>100</value>
+            <value>700</value>
         </item>
         <item id="2">
-            <name>Item Two</name>
-            <value>200</value>
+            <name>Item Two Mostafa</name>
+            <value>400</value>
         </item>
     </items>
 </test>
