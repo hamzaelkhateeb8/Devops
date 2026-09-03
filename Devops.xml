@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test>
+    <name>Sample Test</name>
+    <version>1.0</version>
+    <status>active</status>
+    <items>
+        <item id="1">
+            <name>Item One</name>
+            <value>100</value>
+        </item>
+        <item id="2">
+            <name>Item Two</name>
+            <value>200</value>
+        </item>
+    </items>
+</test>
